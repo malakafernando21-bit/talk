@@ -1,0 +1,7 @@
+{
+  "name": "Voki Toky",
+  "description": "Professional real-time voice communication platform with AI transcription.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
